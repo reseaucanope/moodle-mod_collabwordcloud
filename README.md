@@ -1,3 +1,8 @@
+## Warning
+
+**This plugin has been moved to a new repository, it's no longer updated on this repository.**
+**Please see https://gitlab.com/dne-elearning/moodle-magistere/moodle-mod_collabwordcloud for the latest version**.
+
 # Moodle Worldcloud module
 - Source Code: https://github.com/reseaucanope/moodle-mod_collabwordcloud
 - License: http://www.gnu.org/licenses/gpl-3.0.html
